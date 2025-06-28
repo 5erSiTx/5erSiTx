@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pakasit Chinnawong
 ==========================================================================================================================================
 
-I am now 19 years old and am studying software engineering.
+I am now 20 years old and am studying software engineering.
 
 ### Skills
 
